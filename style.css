@@ -1,0 +1,21 @@
+#bottomCard{
+  margin-top: 20px;
+}
+
+#clock{
+  height: 100px;
+  width:300px;
+  background-color: black;
+  color: #eaeaea;
+  font-size: 3em;
+  text-align: center;
+
+}
+
+#trainIMG{
+  margin-left: 45px;
+}
+
+#bottomTag{
+      margin-left: 10px;
+}
